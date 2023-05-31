@@ -1,0 +1,14 @@
+.App {
+  flex: 1;
+
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.AppDiv {
+  margin-top: 400px;
+  padding-bottom: 40px;
+  flex: 1;
+  justify-content: center;
+}
